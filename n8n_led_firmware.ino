@@ -1,4 +1,4 @@
-// Firmware for 3D backlit n8n logo (Controller: XIAO ESP32C3)
+// Firmware for the Animated n8n Logo (Controller: XIAO ESP32C3)
 #include <Adafruit_NeoPixel.h>
 #define LED_PIN     3
 #define TOUCH_PIN   4
